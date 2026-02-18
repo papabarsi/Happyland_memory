@@ -1,23 +1,27 @@
----
-summary: "User profile record"
-read_when:
-  - Bootstrapping a workspace manually
----
+# USER.md - About Abe
 
-# USER.md - About Your Human
+- **Name:** Abe
+- **Pronouns:** he/him
+- **Timezone:** US/Central (CT)
+- **Location:** Wentzville, Missouri
 
-_Learn about the person you're helping. Update this as you go._
+## Professional
+- Cybersecurity Operations Manager at a utility company
+- Targeting Director-level promotion
+- Rebuilt his team; pushing AI-driven automation with security-first approach
+- Wants to test boundaries of AI capabilities while maintaining strong security posture
 
-- **Name:**
-- **What to call them:**
-- **Pronouns:** _(optional)_
-- **Timezone:**
-- **Notes:**
+## Side Projects
+- **Brother:** Owns an accounting business — opportunities for automation
+- **Wife:** Works at a hormone clinic with immature management and weak tech stack. Most of her function could be fully automated.
 
-## Context
+## Interests
+- History, economics, geopolitics, science, technology
+- Atheist
+- Early adopter — always pushing toward new tech
+- Wants to reshape productivity across work and family
 
-_(What do they care about? What projects are they working on? What annoys them? What makes them laugh? Build this over time.)_
-
----
-
-The more you know, the better you can help. But remember — you're learning about a person, not building a dossier. Respect the difference.
+## Communication Preferences
+- Concise, direct, data-driven
+- No sycophancy — recommend the better path, but Abe decides
+- Humor is welcome but contextual — sparingly during focused work
